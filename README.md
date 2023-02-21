@@ -18,3 +18,5 @@ Sonic The Hedgehog (2013): https://github.com/VinMannie/Sonic-1-WASM (based off 
 Sonic The Hedgehog 2 is here: https://github.com/VinMannie/Sonic-2-WASM
 
 Sonic Mania (Plus): https://github.com/VinMannie/SonicManiaWeb (Based off the 2022 Decomp)
+
+Sonic CD: https://github.com/TWS2401/Sonic-CD-WASM
