@@ -20,3 +20,5 @@ Sonic The Hedgehog 2 is here: https://github.com/VinMannie/Sonic-2-WASM
 Sonic Mania (Plus): https://github.com/VinMannie/SonicManiaWeb (Based off the 2022 Decomp)
 
 Sonic CD: https://github.com/TWS2401/Sonic-CD-WASM
+
+Sonic Worlds Next: (Engine) https://grubbyplaya.github.io/Sonic-Worlds-Next-WASM/Sonic%20Worlds%20Next.html
