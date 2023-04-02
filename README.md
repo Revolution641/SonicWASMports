@@ -22,3 +22,5 @@ Sonic Mania (Plus): https://github.com/VinMannie/SonicManiaWeb (Based off the 20
 Sonic CD: https://github.com/TWS2401/Sonic-CD-WASM
 
 Sonic Worlds Next: (Engine) https://grubbyplaya.github.io/Sonic-Worlds-Next-WASM/Sonic%20Worlds%20Next.html
+
+Sonic 4 Episode 1: https://wamwoowam.github.io/sonic4/
