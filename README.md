@@ -4,6 +4,8 @@ NOTE: Keep in mind these are UNOFFICIAL ports, and as for the official games sho
 
 Sonic Robo Blast 2: https://github.com/chromaticpipe/SRB2-WASM
 
+SRB2 Kart: https://skyleite.github.io/Kart-Public-WASM/
+
 Sonic 2: Community's Cut (Web supported) https://heyjoeway.github.io/s2cx/  Requires a LEGAL Sonic 2 rom to play, not supplied here.
 
 Sonic 3: Angel Island Revisited: https://projects.sappharad.com/s3air_ios/ iOS and Web port here. Requires a legal rom of Sonic 3 and Knuckles to play, steam rom preferred.
