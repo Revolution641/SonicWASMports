@@ -12,7 +12,8 @@ Sonic 3: Angel Island Revisited: https://projects.sappharad.com/s3air_ios/ iOS a
 
 Open Sonic: https://clarkeadg.github.io/opensonic-js/ (Old Sonic Engine)
 
-I can't believe it's not Sonic 1! https://misc.jojudge.com/icbins1-b3/ (Demo of GHZ from the first Sonic game.)
+I can't believe its not Sonic 1!
+https://jojudge.com/ICBINS1/
 
 Motobug Engine: https://coderman64.github.io/motobug-engine/ Another Sonic Engine in the browser.
 
